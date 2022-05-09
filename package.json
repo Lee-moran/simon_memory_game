@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Lee-moran/simon_memory_game#readme",
   "devDependencies": {
-    "jest": "28.0"
+    "jest": "28.0",
+    "jest-environment-jsdom": "^28.1.0"
   }
 }
